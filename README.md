@@ -12,7 +12,7 @@
 
 Презентация по проекту доступна в файле:
 
-[Presentation](docs/presentation.pdf)
+[Presentation](docs/SSO.pdf)
 
 ---
 
